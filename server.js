@@ -1,4 +1,4 @@
-const app_url = "https://mmnn.onrender.com";
+const app_url = "https://pptt.ap-1.evennode.com";
 const express = require("express");
 const app = express();
 const port = 3000;
